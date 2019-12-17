@@ -1,0 +1,104 @@
+#menu{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 253PX;
+    
+}
+#menu ul li{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+}
+#menu ul li a {
+    text-decoration: none;
+    color: white;
+    font-family: Ashby;
+}
+   
+}
+#centre{
+    width: 100%;
+    height: 1140PX;
+    background-color: rgb(0, 0, 0);
+    background-size:    100%;
+        
+}
+#foot{background-color: rgb(53, 53, 53);
+    width: 100%;
+    height: 82PX;
+    color: white;
+    position: relative;
+    top:50%;
+
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    BACKGROUND-COLOR: black;
+    height: 1240PX;
+}
+.box .element{
+    width: 29%;
+    height: 416PX;
+    background-color: rgb(0, 0, 0);
+    MARGIN-TOP: 10%;
+    border: whitesmoke solid 1PX;
+    box-shadow: 3px 19px 53px #797979;
+
+
+}
+  .name{
+    POSITION: relative;
+    LEFT: 4%;
+    TOP: -2%;
+    color: white;
+    font-family:Ashby;
+ 
+}
+
+@font-face{
+    font-family: Ashby;
+    src: url(/font/ASHBBLI_.ttf);
+}
+#ST{
+    POSITION: absolute;
+    TOP: 32%;
+    font-size: 108%;
+    LEFT: 62%;
+}
+#WW{
+    POSITION: absolute;
+    TOP: 32%;
+    font-size: 108%;
+    LEFT: 28%;}
+    audio:hover, audio:focus, audio:active
+{
+-webkit-box-shadow: 15px 15px 20px rgba(170, 6, 6, 0.4);
+-moz-box-shadow: 15px 15px 20px rgba(185, 2, 2, 0.562);
+box-shadow: 15px 15px 20px rgba(177, 2, 2, 0.4);
+-webkit-transform: scale(1.05);
+-moz-transform: scale(1.05);
+transform: scale(1.05);
+}
+
+
+audio
+{
+-webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+-o-transition:all 0.5s linear;
+transition:all 0.5s linear;
+-moz-box-shadow: 2px 2px 4px 0px #730000;
+-webkit-box-shadow:  2px 2px 4px 0px #730000;
+box-shadow: 2px 2px 4px 0px #730000;
+-moz-border-radius:7px 7px 7px 7px ;
+-webkit-border-radius:7px 7px 7px 7px ;
+border-radius:7px 7px 7px 7px ;
+POSITION: relative;
+    LEFT: 8%;
+}
