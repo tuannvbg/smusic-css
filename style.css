@@ -102,3 +102,47 @@ border-radius:7px 7px 7px 7px ;
 POSITION: relative;
     LEFT: 8%;
 }
+
+
+#logo{ 
+    width: 37%;
+    POSITION: absolute;
+    LEFT: 32%;
+    TOP: 3%;
+}
+
+@media screen and (max-width: 600px){
+    #menu{
+        position: absolute;
+        display: flex;
+        height: 100px;
+    }
+    #menu ul li #ST{
+        position: absolute;
+        left: 10px;
+    }
+
+    #menu ul li #WW{
+        position: absolute;
+        left: 64%;
+    }
+
+    #menu ul li #logo{
+        height: 90px;
+    }
+}
+@media screen and (max-width:800px){
+    .box .element{
+        display: block;
+        width: 99%;
+    }
+    .box .element audio{
+        width: 99%;
+        margin-left: -8%;
+    }
+}
+
+#foot{
+    position: relative;
+    top: 1470px;
+}
