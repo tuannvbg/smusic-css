@@ -1,3 +1,8 @@
+@font-face{
+    font-family: Ashby;
+    src: url(/fonts/ASHBBLI_.ttf);
+}
+
 #menu{
     background-color: rgb(0, 0, 0);
     width: 100%;
@@ -64,10 +69,6 @@ body{
  
 }
 
-@font-face{
-    font-family: Ashby;
-    src: url(/font/ASHBBLI_.ttf);
-}
 #ST{
     POSITION: absolute;
     TOP: 32%;
