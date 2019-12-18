@@ -134,7 +134,7 @@ POSITION: relative;
 @media screen and (max-width:800px){
     .box .element{
         display: block;
-        width: 99%;
+        width: 500PX;
     }
     .box .element audio{
         width: 99%;
