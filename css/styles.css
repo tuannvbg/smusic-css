@@ -30,8 +30,8 @@
     font-family: Ashby;
 }
 .nav ul li a img{
-    width: 160px;
-    height: 160px;
+    width: 100px;
+    height: 100px;
 }
 
 /* Row-1 Contains All Cards*/
@@ -161,15 +161,3 @@
     transform: perspective(100px) translateZ(6px);
     transition: all 0.2s ease-in-out;
 }
-
-/* Footer */
-/* footer{
-    width: 100%;
-    background-color: #000000;
-    height: 60px;
-}
-footer h3{
-    color: white;
-    text-align: center;
-    padding-top: 23px;
-} */
