@@ -146,7 +146,11 @@ POSITION: relative;
     }
 }
 
-#foot{
-    position: relative;
-    top: 1470px;
+/* .footer{
+    background-color: red;
+    width: 100%;
 }
+
+.footer h3{
+    text-align: center;
+} */
