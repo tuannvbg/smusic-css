@@ -120,6 +120,7 @@ POSITION: relative;
         position: absolute;
         display: flex;
         height: 100px;
+        margin-top: -25px;
     }
     #menu ul li #ST{
         position: absolute;
@@ -141,8 +142,8 @@ POSITION: relative;
         width: 500PX;
     }
     .box .element audio{
-        width: 99%;
-        margin-left: -8%;
+        width: 316PX;
+        margin-left: 10%;
     }
 }
 
